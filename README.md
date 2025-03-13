@@ -58,10 +58,10 @@ flutter run
 ## Screenshots
 
 ### Main Menu
-![Main Menu](![image](https://github.com/user-attachments/assets/ea980cf4-db92-4339-9a96-eee86dd0eaea)
+![Main Menu](https://github.com/user-attachments/assets/ea980cf4-db92-4339-9a96-eee86dd0eaea)
 
 ### Dashboard UI
-![Dashboard UI](![image](https://github.com/user-attachments/assets/15bcbfca-b043-472c-934e-34ba825d99c5)
+![Dashboard UI](https://github.com/user-attachments/assets/15bcbfca-b043-472c-934e-34ba825d99c5)
 
 ### All Products
 ![All Products](https://github.com/user-attachments/assets/4253fed9-e03f-444c-af00-f0b3f5143120)
