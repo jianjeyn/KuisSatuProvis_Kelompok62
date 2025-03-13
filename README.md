@@ -30,8 +30,6 @@ A modern camping gear rental app built with Flutter
 
 ---
 
-Kalau ada yang perlu diubah lagi, tinggal bilang! 🚀
-
 ## Tech Stack  
 - **Flutter** (Dart)  
 - **Google Fonts** (Custom UI Fonts)  
