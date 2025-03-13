@@ -26,7 +26,6 @@ Aplikasi penyewaan perlengkapan camping modern yang dibangun menggunakan Flutter
 - **Navigasi utama** menggunakan **Bottom Navigation Bar**, yang memungkinkan pengguna berpindah antara **Home, Chat, Wishlist, Transactions, dan Cart** dengan cepat.  
 - Dari **Dashboard**, pengguna bisa memilih untuk melihat **All Product List** atau **All Package List**.  
 - Halaman **Rincian Item**, yang berisi informasi lengkap tentang produk, hanya bisa diakses dari page menu yang ditampilkan pada awal page.  
-- Setelah transaksi berhasil, pengguna dapat melihat status pesanan di **Transaction Monitoring** dan melakukan **pengembalian barang** jika diperlukan.  
 
 ---
 
