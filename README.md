@@ -58,7 +58,7 @@ flutter run
 ## 📷 Screenshots  
 | Dashboard | All Products | Detail Item | Chat Page | Wishlist |  
 |-----------|------------|-------------|-----------|----------|  
-|(![image](https://github.com/user-attachments/assets/e5f7d478-424b-4a9e-bdc1-dda78102e17f) | (![image](https://github.com/user-attachments/assets/4253fed9-e03f-444c-af00-f0b3f5143120) | ![Detail Item](![image](https://github.com/user-attachments/assets/05a412ce-7228-429d-84c2-27a04d87e8c4) | ![Chat](![image](https://github.com/user-attachments/assets/7015d3b5-a98e-44ca-9826-cd29a5a9da22) | ![Wishlist](![image](https://github.com/user-attachments/assets/3bac20ba-a85b-4d0f-ac4c-b454285ad9c4) |  
+|![image](https://github.com/user-attachments/assets/e5f7d478-424b-4a9e-bdc1-dda78102e17f) | ![image](https://github.com/user-attachments/assets/4253fed9-e03f-444c-af00-f0b3f5143120) | ![image](https://github.com/user-attachments/assets/05a412ce-7228-429d-84c2-27a04d87e8c4) | ![Chat](![image](https://github.com/user-attachments/assets/7015d3b5-a98e-44ca-9826-cd29a5a9da22) | ![Wishlist](![image](https://github.com/user-attachments/assets/3bac20ba-a85b-4d0f-ac4c-b454285ad9c4) |  
 
 | Transactions | Return Items | Checkout | Packages |  
 |-------------|-------------|----------|---------|  
