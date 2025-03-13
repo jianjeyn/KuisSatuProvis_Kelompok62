@@ -1,6 +1,6 @@
 # KUIS 1 PROVIS
 
-A modern camping gear rental app built with Flutter
+Aplikasi penyewaan perlengkapan camping modern yang dibangun menggunakan Flutter. Proyek ini disusun guna menyelesaikan tugas kelompok untuk kuis dalam mata kuliah Program Visual dan Piranti Bergerak.
 
 ## KELOMPOK 62
 1. ALIFA SALSABILA (2308138)
@@ -58,10 +58,10 @@ flutter run
 ## Screenshots
 
 ### Main Menu
-![Main Menu](https://github.com/user-attachments/assets/Vd7gc8SfoVPXJZEb11Uxti)
+![Main Menu](![image](https://github.com/user-attachments/assets/ea980cf4-db92-4339-9a96-eee86dd0eaea)
 
 ### Dashboard UI
-![Dashboard UI](https://github.com/user-attachments/assets/e5f7d478-424b-4a9e-bdc1-dda78102e17f)
+![Dashboard UI](![image](https://github.com/user-attachments/assets/15bcbfca-b043-472c-934e-34ba825d99c5)
 
 ### All Products
 ![All Products](https://github.com/user-attachments/assets/4253fed9-e03f-444c-af00-f0b3f5143120)
